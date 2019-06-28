@@ -1,0 +1,3 @@
+%Moisture1:12.Light1:50hrs.Hum1:135
+%Moisture2:25.Light2:12hrs.Hum2:136
+%Moisture3:63.Light3:162hrs.Hum3:125
